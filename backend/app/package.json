@@ -1,0 +1,13 @@
+{
+  "name": "compose-node-mongo-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Node.js backend connected to MongoDB with Docker Compose",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.21.0"
+  }
+}
